@@ -1,4 +1,4 @@
-package com.example.ozinsheexample1.presentation
+package com.example.ozinsheexample1.presentation.login
 
 import android.os.Bundle
 import android.text.method.HideReturnsTransformationMethod
