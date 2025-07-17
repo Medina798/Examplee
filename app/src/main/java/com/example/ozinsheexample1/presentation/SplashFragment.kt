@@ -1,4 +1,4 @@
-package com.example.ozinsheexample1
+package com.example.ozinsheexample1.presentation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
+import com.example.ozinsheexample1.R
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 

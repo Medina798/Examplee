@@ -1,8 +1,9 @@
-package com.example.ozinsheexample1
+package com.example.ozinsheexample1.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.fragment.NavHostFragment
+import com.example.ozinsheexample1.R
 import com.example.ozinsheexample1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
